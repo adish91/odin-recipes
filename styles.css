@@ -28,6 +28,10 @@
     /* use this for pictures on the smoothie pages */
 }
 
+.photoby {
+    font-size: 12px;
+}
+
 p {
     font-family: "Times New Roman", sans-serif;
     font-size: 20px;
