@@ -36,3 +36,12 @@ p {
     font-family: "Times New Roman", sans-serif;
     font-size: 20px;
 }
+
+h3 {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 25px;
+}
+
+a {
+    text-align: center;
+}
