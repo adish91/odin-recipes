@@ -51,3 +51,7 @@ ol {
     font-family: "Times New Roman", sans-serif;
     font-size: 18px;
 }
+
+body {
+    background-color: bisque;
+}
