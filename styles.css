@@ -41,3 +41,13 @@ h3 {
 .recipecredit {
     text-align: center;
 }
+
+ul {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 18px;
+}
+
+ol {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 18px;
+}
