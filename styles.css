@@ -27,3 +27,8 @@
 .smoothiepic {
     /* use this for pictures on the smoothie pages */
 }
+
+p {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 20px;
+}
